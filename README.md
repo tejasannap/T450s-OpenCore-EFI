@@ -11,8 +11,8 @@ My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.2 and MacOS Catalina
 - Display: 1920x1080 HD Touchscreen
 - Wifi Card: Intel AC 7260 
 - Synaptics Trackpad/Trackpoint
-- OpenCore 0.6.2
-- Dual Booted with Windows 10 (Soon to be a Linux of some type :D)
+- OpenCore 0.6.2 (Soon to be 0.6.3)
+- Dual Booted with Manjaro
 ```
 ## Bios
 
