@@ -2,16 +2,16 @@
 My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.2 and MacOS Catalina
 
 ## WARNING: THIS EFI IS NOT BOOT READY, I HAVE REMOVED MY S/N AND SMBIOS SO PLEASE ADD YOUR OWN VALUES
-## Specifications 
+## Specifications
 
-``` 
+```
 - CPU: i7-5600U 2C/4T
-- RAM: 8GB 1600MHz 
+- RAM: 8GB 1600MHz
 - iGPU: HD 5500
 - Display: 1920x1080 HD Touchscreen
-- Wifi Card: Intel AC 7260 
+- Wifi Card: Intel AC 7260
 - Synaptics Trackpad/Trackpoint
-- OpenCore 0.6.2 (Soon to be 0.6.3)
+- OpenCore 0.6.3
 - Dual Booted with Manjaro
 ```
 ## Bios
@@ -32,14 +32,14 @@ My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.2 and MacOS Catalina
 - Handoff, Continuity, AirDrop (Airportitlwm)
 - iMessage, FaceTime and all other iCloud related things
 - Ethernet
-- Onboard audio 
+- Onboard audio
 - USB 2.0 / USB 3.0
 - Battery
 - Touchpad
 - Trackpoint
 - miniDP
-- Touchscreen 
-- Webcam 
+- Touchscreen
+- Webcam
 
 
 ## Not Working
