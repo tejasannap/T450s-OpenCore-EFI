@@ -1,5 +1,5 @@
 # T450s-Catalina-EFI-OC
-My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.2 and MacOS Catalina
+My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.3 and MacOS Catalina
 
 ## WARNING: THIS EFI IS NOT BOOT READY, I HAVE REMOVED MY S/N AND SMBIOS SO PLEASE ADD YOUR OWN VALUES
 ## Specifications
