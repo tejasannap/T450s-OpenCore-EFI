@@ -1,5 +1,5 @@
-# T450s-Catalina-EFI-OC-
-My Personal EFI for my Hackintoshed Daily Driver Thinkpad T450s Running MacOS Catalina 10.15.6 using the OpenCore Bootloader
+# T450s-Catalina-EFI-OC
+My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.2 and MacOS Catalina
 
 ## WARNING: THIS EFI IS NOT BOOT READY, I HAVE REMOVED MY S/N AND SMBIOS SO PLEASE ADD YOUR OWN VALUES
 ## Specifications 
@@ -11,7 +11,8 @@ My Personal EFI for my Hackintoshed Daily Driver Thinkpad T450s Running MacOS Ca
 - Display: 1920x1080 HD Touchscreen
 - Wifi Card: Intel AC 7260 
 - Synaptics Trackpad/Trackpoint
-- OpenCore 0.6.2
+- OpenCore 0.6.2 (Soon to be 0.6.3)
+- Dual Booted with Manjaro
 ```
 ## Bios
 
