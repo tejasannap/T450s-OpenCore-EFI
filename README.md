@@ -7,7 +7,7 @@ My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.3 and MacOS Big Sur
 ```
 - CPU: i7-5600U 2C/4T
 - RAM: 8GB 1600MHz
-- iGPU: HD 5500
+- iGPU: HD 5500 (2040MB Patched)
 - Display: 1920x1080 HD Touchscreen
 - Wifi Card: Intel AC 7260
 - Synaptics Trackpad/Trackpoint
