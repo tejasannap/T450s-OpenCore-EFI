@@ -1,5 +1,5 @@
 # T450s-Catalina-EFI-OC
-My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.3 and MacOS Catalina
+My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.3 and MacOS Big Sur
 
 ## WARNING: THIS EFI IS NOT BOOT READY, I HAVE REMOVED MY S/N AND SMBIOS SO PLEASE ADD YOUR OWN VALUES
 ## Specifications
@@ -28,11 +28,11 @@ My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.3 and MacOS Catalina
 
 ## Working
 
-- Wifi and Bluetooth (Airportitlwm)
+- Wifi and Bluetooth (Airportitlwm) (Hit Or Miss sometimes)
 - Handoff, Continuity, AirDrop (Airportitlwm)
 - iMessage, FaceTime and all other iCloud related things
 - Ethernet
-- Onboard audio
+- Onboard audio (also Hit or Miss sometimes)
 - USB 2.0 / USB 3.0
 - Battery
 - Touchpad
