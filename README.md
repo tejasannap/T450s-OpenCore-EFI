@@ -1,4 +1,4 @@
-# T450s-Catalina-EFI-OC
+# T450s-OpenCore-EFI
 My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.3 and MacOS Big Sur
 
 ## WARNING: THIS EFI IS NOT BOOT READY, I HAVE REMOVED MY S/N AND SMBIOS SO PLEASE ADD YOUR OWN VALUES
