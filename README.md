@@ -1,5 +1,5 @@
 # T450s-OpenCore-EFI
-My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.3 and MacOS Big Sur
+My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.4 and MacOS Big Sur
 
 ## WARNING: THIS EFI IS NOT BOOT READY, I HAVE REMOVED MY S/N AND SMBIOS SO PLEASE ADD YOUR OWN VALUES
 ## Specifications
@@ -11,7 +11,7 @@ My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.3 and MacOS Big Sur
 - Display: 1920x1080 HD Touchscreen
 - Wifi Card: Intel AC 7260
 - Synaptics Trackpad/Trackpoint
-- OpenCore 0.6.3
+- OpenCore 0.6.4
 - Dual Booted with Manjaro
 ```
 ## Bios
@@ -28,11 +28,11 @@ My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.3 and MacOS Big Sur
 
 ## Working
 
-- Wifi and Bluetooth (Airportitlwm) (Hit Or Miss sometimes)
+- Wifi (Airportitlwm) (Hit Or Miss sometimes)
 - Handoff, Continuity, AirDrop (Airportitlwm)
 - iMessage, FaceTime and all other iCloud related things
 - Ethernet
-- Onboard audio (also Hit or Miss sometimes)
+- Onboard audio
 - USB 2.0 / USB 3.0
 - Battery
 - Touchpad
