@@ -759,58 +759,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Windows 2015 to Darwin</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>V2luZG93cyAyMDE1AA==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>RGFyd2luAKOjo6Ojow==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
-				<string>Windows 2006 to 2015</string>
-				<key>Count</key>
-				<integer>0</integer>
-				<key>Enabled</key>
-				<true/>
-				<key>Find</key>
-				<data>MDYAcAFXVklTcAvWB09TWVOgIQ==</data>
-				<key>Limit</key>
-				<integer>0</integer>
-				<key>Mask</key>
-				<data></data>
-				<key>OemTableId</key>
-				<data></data>
-				<key>Replace</key>
-				<data>MTUAcAFXSU44cAvfB09TWVOgGg==</data>
-				<key>ReplaceMask</key>
-				<data></data>
-				<key>Skip</key>
-				<integer>0</integer>
-				<key>TableLength</key>
-				<integer>0</integer>
-				<key>TableSignature</key>
-				<data></data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>Wake (_PRW 0x6d, 0x04) ---&gt; (0x6d, 0)   PWR</string>
 				<key>Count</key>
 				<integer>0</integer>
@@ -969,6 +917,8 @@
 			<false/>
 			<key>ProvideMaxSlide</key>
 			<integer>0</integer>
+			<key>AllowRelocationBlock</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>DeviceProperties</key>
@@ -1389,22 +1339,6 @@
 			</dict>
 			<dict>
 				<key>BundlePath</key>
-				<string>CodecCommander.kext</string>
-				<key>Comment</key>
-				<string></string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/CodecCommander</string>
-				<key>MaxKernel</key>
-				<string></string>
-				<key>MinKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-			</dict>
-			<dict>
-				<key>BundlePath</key>
 				<string>RTCMemoryFixup.kext</string>
 				<key>Comment</key>
 				<string></string>
@@ -1699,6 +1633,8 @@
 			<false/>
 			<key>LegacyCommpage</key>
 			<false/>
+			<key>ForceSecureBootScheme</key>
+			<false/>
 		</dict>
 	</dict>
 	<key>Misc</key>
@@ -1790,6 +1726,8 @@
 			<string>Signed</string>
 			<key>EnablePassword</key>
 			<false/>
+			<key>BlacklistAppleUpdate</key>
+			<true/>
 		</dict>
 		<key>Tools</key>
 		<array>
@@ -1830,7 +1768,7 @@
 				<key>SystemAudioVolume</key>
 				<data>Rg==</data>
 				<key>boot-args</key>
-				<string>alcid=32 -v -keepsyms=1 swd_panic=1</string>
+				<string>alcid=32 -v -keepsyms=1 swd_panic=1 igfxonln=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>booter-fileset-kernel</key>
@@ -1899,7 +1837,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string></string>
+			<string>C02510300GUGDVV1H</string>
 			<key>ROM</key>
 			<data>qEMFDfCF</data>
 			<key>SpoofVendor</key>
@@ -1907,9 +1845,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro12,1</string>
 			<key>SystemSerialNumber</key>
-			<string></string>
+			<string>C02PD03YH1DP</string>
 			<key>SystemUUID</key>
-			<string></string>
+			<string>5D5EB51E-49E7-4330-B68E-652E838D975B</string>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 		</dict>
