@@ -1,6 +1,8 @@
 # T450s-OpenCore-EFI
 My EFI folder for my hackintoshed Lenovo T450s using OC 0.6.4 and MacOS Big Sur
 
+## I longer am in possesion of this laptop so this repository will no longer be updated :(
+
 ## WARNING: THIS EFI IS NOT BOOT READY, I HAVE REMOVED MY S/N AND SMBIOS SO PLEASE ADD YOUR OWN VALUES
 ## Specifications
 
